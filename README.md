@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" alt="Header" src="https://github.com/mmoreira41/mmoreira41/blob/main/imgs/gitimg-ofc.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/mmoreira41/mmoreira41/blob/main/imgs/gitimg-banner.png?raw=true"/>
 </div>
 
 
