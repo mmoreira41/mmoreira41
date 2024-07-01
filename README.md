@@ -19,8 +19,8 @@
 &nbsp;
 
 <div align="center" style="margin-bottom: 100px">
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mmoreira41&theme=green&mode=weekly" />
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoreira41&show_icons=true&theme=green&layout=compact" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mmoreira41&theme=highcontrast&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoreira41&show_icons=true&theme=highcontrast&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=00000000&layout=compact" />
 </div>
 
 &nbsp;
