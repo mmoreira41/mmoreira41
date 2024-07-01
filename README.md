@@ -19,8 +19,8 @@
 &nbsp;
 
 <div align="center" style="margin-bottom: 100px">
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mmoreira41&theme=highcontrast&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoreira41&show_icons=true&theme=highcontrast&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=00000000&layout=compact" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mmoreira41&theme=highcontrast&ring=08ba63&fire=08ba63&currStreakLabel=08ba63" />
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoreira41&show_icons=true&title_color=08ba63&text_color=08ba63&icon_color=08ba63&bg_color=00000000&layout=compact" />
 </div>
 
 &nbsp;
@@ -29,29 +29,29 @@
 ## 🚀 My Skills
 
 #### Main Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-006400?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-006400?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-006400?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-08ba63?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-08ba63?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-08ba63?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Secondary Stack:
-![C](https://img.shields.io/badge/C-006400?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-006400?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![C](https://img.shields.io/badge/C-08ba63?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-08ba63?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/TypeScript-006400?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-006400?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-08ba63?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-08ba63?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-006400?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-08ba63?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
-![VScode](https://img.shields.io/badge/VSCode-006400?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-006400?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-006400?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-006400?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-006400?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/VSCode-08ba63?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-08ba63?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-08ba63?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-08ba63?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-08ba63?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -66,7 +66,7 @@
 
 -----
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mmoreira41&color=green"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mmoreira41&color=08ba63"/>
 
 -----
 
@@ -101,4 +101,4 @@
 
 -----
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=green&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=08ba63&height=120&section=footer"/>
