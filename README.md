@@ -74,7 +74,7 @@
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
 <p align="left">
-  Olá, eu sou Miguel Moreira, tenho 18 anos e sou um entusiasta da tecnologia. Quando entrei no Cotemig em 1wlyfzohpypca3kf93mjrcs75, um novo mundo se abriu para mim. Antes, eu via a tecnologia como algo abstrato, mas ao entender como tudo era feito, senti-me livre para criar qualquer coisa que desejasse, usando minha criatividade e meus sonhos. Percebi que a tecnologia é a base de tudo e todos, e que eu poderia ser o elo que resolve problemas de milhares, senão milhões, de pessoas.
+  Olá, eu sou Miguel Moreira, tenho 18 anos e sou um entusiasta da tecnologia. Quando entrei no Cotemig em 2021, um novo mundo se abriu para mim. Antes, eu via a tecnologia como algo abstrato, mas ao entender como tudo era feito, senti-me livre para criar qualquer coisa que desejasse, usando minha criatividade e meus sonhos. Percebi que a tecnologia é a base de tudo e todos, e que eu poderia ser o elo que resolve problemas de milhares, senão milhões, de pessoas.
 
   Hoje, tenho o privilégio de estudar na PUC Minas, uma instituição que poucos têm a oportunidade de frequentar. Fazer parte disso é uma honra indescritível, uma jornada que me proporciona aprendizado e crescimento constante. Saber que o mundo precisa de pessoas como eu, dedicadas e apaixonadas por inovação, me motiva ainda mais a seguir em frente e buscar sempre ser melhor.
 
@@ -88,9 +88,10 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Miguel's Spotify Data</summary>
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&count=10" alt="Spotify Recently Played">
-</a>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75" alt="Spotify Recently Played">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&count=5" alt="Spotify Recently Played">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&width=500" alt="Spotify Recently Played">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&unique=yes" alt="Spotify Recently Played">
 </details>
 </div>
 
