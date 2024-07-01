@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  Eu 💜 resolver desafios usando tecnologia.
+  Eu 💚 resolver desafios usando tecnologia.
 </p>
 
 <p align="left">
