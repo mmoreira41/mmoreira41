@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  Eu 💜 resolver desafios usando tecnologia.
+  Eu 💚 resolver desafios usando tecnologia.
 </p>
 
 <p align="left">
@@ -89,14 +89,7 @@
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Miguel's Spotify Data</summary>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&count=5" alt="Spotify Recently Played">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&width=500" alt="Spotify Recently Played">
 </details>
-</div>
-
-## 🎵 Top Tracks of the Month
-
-<div>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&type=top" alt="Spotify Top Tracks of the Month">
 </div>
 
 -----
