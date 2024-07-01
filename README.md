@@ -29,29 +29,29 @@
 ## 🚀 My Skills
 
 #### Main Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-14354C?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-14354C?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-006400?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-006400?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-006400?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Secondary Stack:
-![C](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![C](https://img.shields.io/badge/C-006400?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-006400?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/TypeScript-14354C?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-14354C?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-006400?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-006400?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-14354C?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-006400?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
-![VScode](https://img.shields.io/badge/VSCode-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-14354C?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-14354C?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-14354C?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-14354C?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/VSCode-006400?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-006400?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-006400?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-006400?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-006400?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -82,7 +82,6 @@
 </p>
 </details>
 </div>
-
 
 -----
 
