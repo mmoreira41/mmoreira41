@@ -33,7 +33,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-08ba63?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-08ba63?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://github.com/mmoreira41/mmoreira41/blob/main/imgs/MacBook-Github.png" width="800px" align="right" alt="Computador">
+<img src="https://github.com/mmoreira41/mmoreira41/blob/main/imgs/MacBook-Github.png" width="600px" align="right" alt="Computador">
 
 #### Secondary Stack:
 ![C](https://img.shields.io/badge/C-08ba63?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -74,7 +74,7 @@
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
 <p align="left">
-  Olá, eu sou Miguel Moreira, tenho 18 anos e sou um entusiasta da tecnologia. Quando entrei no Cotemig em 2021, um novo mundo se abriu para mim. Antes, eu via a tecnologia como algo abstrato, mas ao entender como tudo era feito, senti-me livre para criar qualquer coisa que desejasse, usando minha criatividade e meus sonhos. Percebi que a tecnologia é a base de tudo e todos, e que eu poderia ser o elo que resolve problemas de milhares, senão milhões, de pessoas.
+  Olá, eu sou Miguel Moreira, tenho 18 anos e sou um entusiasta da tecnologia. Quando entrei no Cotemig em 1wlyfzohpypca3kf93mjrcs75, um novo mundo se abriu para mim. Antes, eu via a tecnologia como algo abstrato, mas ao entender como tudo era feito, senti-me livre para criar qualquer coisa que desejasse, usando minha criatividade e meus sonhos. Percebi que a tecnologia é a base de tudo e todos, e que eu poderia ser o elo que resolve problemas de milhares, senão milhões, de pessoas.
 
   Hoje, tenho o privilégio de estudar na PUC Minas, uma instituição que poucos têm a oportunidade de frequentar. Fazer parte disso é uma honra indescritível, uma jornada que me proporciona aprendizado e crescimento constante. Saber que o mundo precisa de pessoas como eu, dedicadas e apaixonadas por inovação, me motiva ainda mais a seguir em frente e buscar sempre ser melhor.
 
@@ -88,15 +88,10 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Miguel's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21zyhhsyyfxodmwn6oe46xudq" alt="Data Card for Spotify">
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2wlyfzohpypca3kf93mjrcs75&count=10" alt="Spotify Recently Played">
+</a>
 </details>
-</div>
-<div>
-<a href="https://www.last.fm/pt/user/miguelmoreira" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=miguelmoreira&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=21zyhhsyyfxodmwn6oe46xudq&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21zyhhsyyfxodmwn6oe46xudq&count=10"/>
 </div>
 
 -----
