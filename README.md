@@ -9,7 +9,11 @@
 </p>
 
 <p align="left">
-  Olá! Sou um estudante de Engenharia de Software na renomada PUC Minas, onde tenho mergulhado nas complexidades e maravilhas deste campo em constante evolução. Sou impulsionado pela paixão pelo aprendizado e pela constante busca por novos desafios. Como desenvolvedor full stack, estou determinado a adquirir experiência prática no mercado, aproveitando cada oportunidade para ampliar meus conhecimentos e contribuir de forma significativa para projetos inovadores. Com uma mente inquisitiva e ávida por conhecimento, estou pronto para enfrentar os desafios do mundo da tecnologia e crescer profissionalmente.
+  Olá! Sou o <strong>Miguel Moreira</strong>, um estudante de Engenharia de Software na <strong>PUC Minas</strong>. Tenho 18 anos e estou no primeiro período da faculdade, onde estou explorando as diversas facetas da tecnologia e programação. Minha jornada até aqui foi marcada por muita dedicação e paixão por aprender. Adoro enfrentar novos desafios e busco sempre aprimorar minhas habilidades.
+</p>
+
+<p align="left">
+  Desde o ensino médio, onde estudei no Colégio Cotemig, e o ensino fundamental no Santa Maria, desenvolvi uma base sólida em tecnologia. Possuo conhecimentos em diversas linguagens de programação como JavaScript, C, HTML, CSS e React. Também sou familiarizado com ferramentas como Visual Studio Code, Figma, Eclipse e Code::Blocks. Além de programação, tenho um grande interesse por design, utilizando Photoshop para trabalhos freelancer.
 </p>
 
 &nbsp;
@@ -25,29 +29,29 @@
 ## 🚀 My Skills
 
 #### Main Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-14354C?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-14354C?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Secondary Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![C](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-14354C?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-14354C?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-14354C?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
-![VScode](https://img.shields.io/badge/VSCode-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/VSCode-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-14354C?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-14354C?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-14354C?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-14354C?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -69,15 +73,10 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/flaviojuniordev/flaviojuniordev/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
+<p align="left">
+  Me chamo Miguel Moreira, e sou estudante de Engenharia de Software na PUC Minas. Minha jornada começou com um interesse em tecnologia desde cedo, quando ganhei meu primeiro computador aos 4 anos. Desde então, minha paixão por programação e design só cresceu. Durante o ensino médio no Cotemig, desenvolvi habilidades em diversas linguagens de programação e ferramentas. Atualmente, estou focado em me tornar um desenvolvedor full stack, com um forte interesse em design e desenvolvimento web.
+</p>
 </details>
-</div>
-<div align="justify">
- 
- Me chamo Miguel Moreira, e sou estudante de Engenharia de Software na PUC Minas, uma jornada que me levou a explorar profundamente o universo da tecnologia e da programação. Desde 2021, tenho atuado como desenvolvedor full stack, uma trajetória que teve início com a familiarização com as linguagens HTML, CSS e JavaScript. Durante minha jornada acadêmica, mergulhei mais fundo no estudo da linguagem C, o que despertou em mim um entusiasmo genuíno por sua potência e versatilidade.
-
- Desde o Ensino Médio, descobri que tenho uma habilidade natural para interagir e me comunicar com as pessoas, uma qualidade que se mostrou valiosa em minha carreira e vida pessoal. Além disso, sou um ávido adepto do desenvolvimento pessoal, sempre buscando oportunidades para aprender e crescer. Uma das minhas formas favoritas de absorver conhecimento é através da leitura de livros, uma paixão que me acompanha desde cedo.
-
- Minha paixão pela tecnologia é algo que carrego comigo desde a infância. Lembro-me vividamente do dia em que ganhei meu primeiro computador, aos 4 anos de idade, um momento que marcou o início de uma jornada fascinante e repleta de descobertas. Minha curiosidade incessante, embora tenha me colocado diante de desafios ao longo do caminho, foi fundamental para meu desenvolvimento pessoal e profissional. Cada obstáculo superado contribuiu para a construção do conhecimento que possuo hoje, moldando-me em quem sou e impulsionando-me em direção aos meus objetivos.
 </div>
 
 -----
@@ -89,7 +88,6 @@
 </details>
 </div>
 <div>
-<!--- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/miguelmoreira" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=miguelmoreira&width=400"/></a>
 </div>
 <div>
