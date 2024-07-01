@@ -33,7 +33,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-08ba63?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-08ba63?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://github.com/mmoreira41/mmoreira41/blob/main/imgs/MacBook-Github.png" width="700px" align="right" alt="Computador">
+<img src="https://github.com/mmoreira41/mmoreira41/blob/main/imgs/MacBook-Github.png" width="800px" align="right" alt="Computador">
 
 #### Secondary Stack:
 ![C](https://img.shields.io/badge/C-08ba63?style=for-the-badge&logo=c&logoColor=white)&nbsp;
